@@ -1,5 +1,6 @@
 # Bugsnag error monitoring & exception reporter for React Native
 [![Documentation](https://img.shields.io/badge/documentation-2.21.1-blue.svg)](http://docs.bugsnag.com/platforms/react-native/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbugsnag%2Fbugsnag-react-native.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbugsnag%2Fbugsnag-react-native?ref=badge_shield)
 
 Automatic [React Native crash reporting](https://www.bugsnag.com/platforms/react-native-error-reporting/) with Bugsnag helps you detect both native OS and JavaScript errors in your React Native apps.
 
@@ -40,3 +41,6 @@ and release `bugsnag-react-native`, see our
 The Bugsnag React Native library is free software released under the MIT License.
 See [LICENSE.txt](https://github.com/bugsnag/bugsnag-react-native/blob/master/LICENSE.txt)
 for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbugsnag%2Fbugsnag-react-native.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbugsnag%2Fbugsnag-react-native?ref=badge_large)
